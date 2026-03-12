@@ -5,7 +5,7 @@ Write a class to model a memory:
 
 • rand bit [7:0] mem[256];
 
-Constraints:
+**Constraints:**
 
 • Memory size = 256 bytes
 
