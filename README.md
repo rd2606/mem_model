@@ -2,6 +2,7 @@
 system verilog randomization use to create mem model
 
 Write a class to model a memory:
+
 • rand bit [7:0] mem[256];
 Constraints:
 • Memory size = 256 bytes
